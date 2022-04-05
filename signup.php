@@ -8,6 +8,6 @@
     $rs = mysqli_query($con, $sql);
 
     if ($rs) {
-        echo "User added!"
+        echo "User added!";
     }
     ?>
